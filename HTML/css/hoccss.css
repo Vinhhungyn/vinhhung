@@ -1,0 +1,59 @@
+h1 {
+  color: rgb(224, 159, 205);
+  font-size: 40px;
+  border-color: rgb(231, 234, 247);
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 3px;
+  color: #ffb6c1;
+  font-family: 'Comic Sans MS', 'Muli', cursive, sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 8px #fff0f5;
+  border-radius: 16px;
+  background: #fff0f5;
+  margin-bottom: 0px;
+
+  display: block;
+  width: fit-content;
+  margin: 16px auto 16px auto;
+
+  padding: 5px 2px;
+  
+}
+h1:hover {
+  background-color: aquamarine;
+    color: #c786e6;
+    text-shadow: 1px 1px 12px #fff;
+}
+.anh{
+    text-align: center;
+    margin-top: 32px;
+    border-radius: 24px;
+    background: #ffe4e1;
+    box-shadow: 0 2px 12px #d7688f;
+    padding: 16px;
+  
+}
+ 
+
+input:focus, button:focus, select:focus, textarea:focus {
+  box-shadow: 0 0 16px #ffb6c1;
+  outline: none;
+}
+
+
+.intro {
+  font-style: italic;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+html {
+  background: url("https://i.pinimg.com/736x/08/79/29/0879293dd882d96c8b1a9ff0840f84b2.jpg");
+  background-size: cover;
+  background-position: center;
+}
